@@ -1,0 +1,36 @@
+h1 {
+    color: deeppink;
+}
+
+* {
+    border: #Da00ff;
+}
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.side_description{
+    background-color:#4a5f6d;
+
+}
+
+.grid{
+    background-color: #8a7b7b;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.socal{
+    background-color: darkmagenta;
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #1A2C3F;
+}
